@@ -1,14 +1,13 @@
 # Site Settings
-name: Diego
-title: Coflow
-description: Diegofornalha
+name: S.P.A. Haute Vienne
+title: S.P.A
+description: Site formidable de la spa.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-show_hero: true
+  - spa
+  - association
+  - animaux
+  - protection
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -16,34 +15,32 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@xyz.com
-disqus_username: disqus_username
+email: 
+disqus_username: 
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: 
+facebook_username: SPA-de-Limoges-et-de-la-Haute-Vienne-125938314176562
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+medium_username: 
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+google_analytics: "" #UA-XXXXXXXX-X
+language: "fr"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
